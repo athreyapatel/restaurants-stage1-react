@@ -5,6 +5,7 @@ It is my 5th project of Udacity ND Scholarship
 ## Preview Link:
 
 - https://athreyapatel.github.io/restaurants-stage1-react/
+- Unfortunately you can't experience the full version.
 
 ## Getting Started
 
